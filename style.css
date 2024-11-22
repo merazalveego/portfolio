@@ -24,6 +24,7 @@
   --transition: all 400ms ease;
 }
 
+
 body {
   background-color: var(--color-bg);
   font-family: "Ador Noirrit";
