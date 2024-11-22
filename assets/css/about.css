@@ -47,9 +47,8 @@
   border: 1px solid var(--color-white);
   transition: var(--transition);
 }
-.about__card i {
-  font-size: 2rem;
-  color: var(--color-primary);
+.about__card svg {
+  margin-bottom: 15px;
 }
 .about__card h4 {
   margin-top: 1rem;
